@@ -1,0 +1,23 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UjjwalDeep/fileSharingFrontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UjjwalDeep/fileSharingFrontend/issues"
+  },
+  "homepage": "https://github.com/UjjwalDeep/fileSharingFrontend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
